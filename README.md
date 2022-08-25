@@ -14,9 +14,12 @@
 </a>  
 
 <a href="https://kk1110.com/rhp">
-  <img align="left" alt="Research bio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/academia.svg" />
+  <img align="left" alt="Gatsby Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gatsby.svg" />
 </a>  
 
+<a href="https://kk1110.com/rhp">
+  <img align="left" alt="Research bio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/academia.svg" />
+</a>  
 
 </div>
 
