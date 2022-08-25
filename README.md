@@ -13,7 +13,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>  
 
-<a href="https://kk1110.com/rhp">
+<a href="https://kotaaaa1110blogs.gtsb.io">
   <img align="left" alt="Gatsby Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gatsby.svg" />
 </a>  
 
