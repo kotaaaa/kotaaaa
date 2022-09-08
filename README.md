@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/kotaaaa/github_resume">
-  <img align="left" alt="Research bio" width="22px" src="images/resume-svgrepo-com.svg" />
+  <img align="left" alt="Resume" width="22px" src="images/resume-svgrepo-com.svg" />
 </a>
 
 </div>
