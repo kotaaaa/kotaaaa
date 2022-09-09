@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://kk1110.netlify.app">
-  <img align="left" alt="Gatsby Blog" width="22px" src="images/resume-svgrepo-com.svg" />
+  <img align="left" alt="Gatsby Blog" width="22px" src="images/blog-svg.svg" />
 </a>
 
 <a href="https://kk1110.com/rhp">
