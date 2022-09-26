@@ -29,10 +29,10 @@
 
 ##### I'm software engineer working in Japan.
 
-🔭 Fun fact: Cloud engineering  
-⭐ I’m currently working on Web engineering  
-🌱 I’m currently learning Data engineering
-✍ I was doing research in NLP and data mining in my master's program
-⚡ Python, GCP, Kubernetes, Terraform enthusiast
+- 🔭 Fun fact: Cloud engineering
+- ⭐ I’m currently working on Web engineering
+- 🌱 I’m currently learning Data engineering
+- ✍ I was doing research in NLP and data mining in my master's program
+- ⚡ Python, GCP, Kubernetes, Terraform enthusiast
 
 ![](https://github-readme-stats.vercel.app/api?username=kotaaaa&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
