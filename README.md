@@ -30,8 +30,8 @@
 ##### I'm software engineer working in Japan.
 
 - 🔭 Fun fact: Cloud engineering
-- ⭐ I’m currently working on Web engineering
-- 🌱 I’m currently learning Data engineering
+- ⭐ I’m was working on Web development
+- 🌱 I’m mainly working on Data engineering
 - ✍ I was doing research in NLP and data mining in my master's program
 - ⚡ Python, GCP, Kubernetes, Terraform enthusiast
 
