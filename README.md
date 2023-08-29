@@ -27,7 +27,7 @@
 
 <br>
 
-##### I'm software engineer working in Japan.
+##### I'm software engineer living in Vancouver.
 
 - 🔭 Fun fact: Cloud engineering
 - ⭐ I’m was working on Web development
