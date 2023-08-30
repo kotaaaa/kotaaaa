@@ -30,9 +30,8 @@
 ##### I'm software engineer living in Vancouver.
 
 - 🔭 Fun fact: Cloud engineering
-- ⭐ I’m was working on Web development
-- 🌱 I’m mainly working on Data engineering
+- ⭐ I’m working on Web development, DevOps and Data engineering
 - ✍ I was doing research in NLP and data mining in my master's program
-- ⚡ Python, GCP, Kubernetes, Terraform enthusiast
+- ⚡ Python, Typescript, AWS, GCP, Kubernetes, Terraform, Clean Architecture enthusiast
 
 ![](https://github-readme-stats.vercel.app/api?username=kotaaaa&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
