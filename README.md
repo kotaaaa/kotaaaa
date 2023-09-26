@@ -15,7 +15,7 @@
   <img align="left" alt="Gatsby Blog" width="22px" src="images/blog-svg.svg" />
 </a>
 
-<a href="https://kk1110.com/rhp">
+<a href="https://kotaaaa.github.io/rhp">
   <img align="left" alt="Research bio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/academia.svg" />
 </a>
 
