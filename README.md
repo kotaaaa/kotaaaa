@@ -19,10 +19,6 @@
   <img align="left" alt="Research bio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/academia.svg" />
 </a>
 
-<a href="https://github.com/kotaaaa/github_resume">
-  <img align="left" alt="Resume" width="22px" src="images/resume-svgrepo-com.svg" />
-</a>
-
 </div>
 
 <br>
