@@ -11,7 +11,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 
-<a href="https://kk1110.netlify.app">
+<a href="https://kkota.dev">
   <img align="left" alt="Gatsby Blog" width="22px" src="images/blog-svg.svg" />
 </a>
 
