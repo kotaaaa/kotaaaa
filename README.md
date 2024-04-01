@@ -3,9 +3,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
 
 <div>
-<a href="https://twitter.com/kotaaaa1110">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
 
 <a href="https://www.linkedin.com/in/kota1110/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
@@ -23,7 +20,7 @@
 
 <br>
 
-##### I'm software engineer living in Vancouver.
+##### Hi, I am Kota.
 
 - 🔭 I’m working on Full-Stack Development, DevOps, Data engineering and Cloud engineering
 - ✍ I was doing research in NLP and data mining in my master's program
