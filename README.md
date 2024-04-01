@@ -20,8 +20,6 @@
 
 <br>
 
-##### Hi, I am Kota.
-
 - 🔭 I’m working on Full-Stack Development, DevOps, Data engineering and Cloud engineering
 - ✍ I was doing research in NLP and data mining in my master's program
 - ⚡ Python, Typescript, AWS, GCP, Kubernetes, Terraform, Clean Architecture enthusiast
